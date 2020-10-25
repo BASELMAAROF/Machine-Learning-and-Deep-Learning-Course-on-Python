@@ -1,17 +1,5 @@
 # Machine-Learning-and-Deep-Learning-Course-on-Python
 
- 
-### Who this course is for:
-
-Anyone interested in Machine Learning.
-Students who have at least high school knowledge in math and who want to start learning Machine Learning.
-Any intermediate level people who know the basics of machine learning, including the classical algorithms like linear regression or logistic regression, but who want to learn more about it and explore all the different fields of Machine Learning.
-Any people who are not that comfortable with coding but who are interested in Machine Learning and want to apply it easily on datasets.
-Any students in college who want to start a career in Data Science.
-Any data analysts who want to level up in Machine Learning.
-Any people who are not satisfied with their job and who want to become a Data Scientist.
-Any people who want to create added value to their business by using powerful Machine Learning tools. 
- 
 
 ### The Content Of The Course: 
 
